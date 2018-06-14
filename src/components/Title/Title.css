@@ -1,0 +1,23 @@
+.title {
+  width: 100%;
+  font-size: 1rem;
+  color: black;
+  margin-bottom: 20px;
+}
+
+
+.header{
+  background-color: brown;
+  height: 35%;
+  width:100%
+}
+
+.cardBody{
+  margin-top: 5%;
+  text-align: center;
+  font-size:2em
+}
+
+.guess{
+  font-size: 2em;
+}
